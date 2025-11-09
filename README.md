@@ -1,5 +1,5 @@
-# Analítica de ventas de videojuegos: insights por plataforma, género y región
-Analítica de ventas de videojuegos: insights por plataforma, género y región
+# Analítica de ventas de videojuegos: Insights por plataforma, género y región
+Analítica de ventas de videojuegos: Insights por plataforma, género y región
 
 **Descripción del proyecto:**
 Estudio analítico de ventas de videojuegos a nivel global (NA, EU, JP) para detectar patrones que impulsen decisiones de marketing y catálogo. Incluye limpieza y preparación de datos, EDA con visualizaciones, perfiles regionales y pruebas de hipótesis sobre puntuaciones de usuarios y géneros.
